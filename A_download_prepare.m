@@ -275,7 +275,7 @@ return
 %% Create figure for paper.
 
 % eBird coverage map
-path_bmmus="/Users/raphael/Library/CloudStorage/Box-Box/BMM-US";
+path_bmmus="/Users/rafnuss/Library/CloudStorage/Box-Box/BMM-US";
 load(path_bmmus+'/data/density/inference-trans.mat','g','radar')
 
 % Load all 

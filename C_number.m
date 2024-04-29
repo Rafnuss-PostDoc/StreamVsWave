@@ -1,6 +1,6 @@
 
 % run B_construct_daily_table
-path_bmmus="/Users/raphael/Library/CloudStorage/Box-Box/BMM-US";
+path_bmmus="/Users/rafnuss/Library/CloudStorage/Box-Box/BMM-US";
 load(path_bmmus+'/data/density/inference-trans.mat','g','radar')
 
 y=2010:2021;
